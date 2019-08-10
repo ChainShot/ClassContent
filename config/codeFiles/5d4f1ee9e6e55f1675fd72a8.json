@@ -1,0 +1,16 @@
+{
+  "executablePath": "Block.js",
+  "name": "Block.js",
+  "executable": true,
+  "hasProgress": true,
+  "mode": "javascript",
+  "readOnly": false,
+  "testFixture": false,
+  "visible": true,
+  "stageContainerId": "5d4f1e68e6e55f1675fd72a6",
+  "codeStageIds": [
+    "5d4f1ebbe6e55f1675fd72a7"
+  ],
+  "id": "5d4f1ee9e6e55f1675fd72a8",
+  "initialCode": "$$LOOKUP"
+}

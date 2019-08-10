@@ -1,0 +1,15 @@
+{
+  "type": "CodeStage",
+  "containerId": "5d4f1e68e6e55f1675fd72a6",
+  "completionMessage": "$$LOOKUP",
+  "title": "Proof Of Work",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "position": 0,
+  "id": "5d4f1ebbe6e55f1675fd72a7",
+  "codeFileIds": [
+    "5d4f1ee9e6e55f1675fd72a8",
+    "5d4f213ae6e55f1675fd72aa"
+  ]
+}
